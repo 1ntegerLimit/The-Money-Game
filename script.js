@@ -20,11 +20,11 @@ var canEnterCasino = false;
 var upgradePrice = 100;
 const workerControlVar = false;
 var workers = 0;
-var basicWorkerPrice = 5;
-var hardWorkerPrice = 10;
-var harderWorkerPrice = 15;
-var eliteWorkerPrice = 20;
-var superWorkerPrice = 25;
+var basicWorkerPrice = 5000;
+var hardWorkerPrice = 10000;
+var harderWorkerPrice = 15000;
+var eliteWorkerPrice = 20000;
+var superWorkerPrice = 25000;
 var moneyPerSecond = 0;
 var canEnterFactory = false;
 
